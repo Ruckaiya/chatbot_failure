@@ -1,6 +1,6 @@
 nltk
 numpy
 keras
-tensorflow
+tensorflow-cpu
 flask
 gunicorn
